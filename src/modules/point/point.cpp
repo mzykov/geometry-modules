@@ -1,0 +1,3 @@
+module point;
+
+import std;
