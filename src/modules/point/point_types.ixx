@@ -2,5 +2,5 @@ export module point:types;
 
 export
 struct Point {
-	const int x, y, z;
+	int x, y, z;
 };
