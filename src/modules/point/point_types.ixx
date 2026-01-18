@@ -1,6 +1,8 @@
 export module point:types;
 
+import std;
+
 export
 struct Point {
-	int x, y, z;
+	int x = 0, y = 0, z = 0;
 };
